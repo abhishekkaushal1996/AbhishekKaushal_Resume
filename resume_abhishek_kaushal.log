@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 18:17
 entering extended mode
 **./resume_abhishek_kaushal.tex
 (resume_abhishek_kaushal.tex
@@ -341,6 +341,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [1
 
 {C:/Users/Mabhi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./IMG_20171
@@ -350,11 +353,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2864 strings out of 492976
- 44901 string characters out of 3126751
- 123690 words of memory out of 3000000
- 6699 multiletter control sequences out of 15000+200000
- 4863 words of font info for 18 fonts, out of 3000000 for 9000
+ 2865 strings out of 492976
+ 44916 string characters out of 3126751
+ 124690 words of memory out of 3000000
+ 6700 multiletter control sequences out of 15000+200000
+ 5170 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,15n,37p,308b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Mabhi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
@@ -364,7 +367,7 @@ onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Mabhi/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Mabhi/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Mabh
 i/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume_abhishek_kaushal.pdf (2 pages, 97154 bytes).
+Output written on resume_abhishek_kaushal.pdf (2 pages, 97800 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
